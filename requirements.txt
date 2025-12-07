@@ -1,3 +1,6 @@
 requests
 pandas
 beautifulsoup4
+numpy
+matplotlib.pyplot
+seaborn
